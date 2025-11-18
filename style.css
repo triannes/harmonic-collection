@@ -1,0 +1,59 @@
+		body {
+			background-color: whitesmoke;
+			margin: 0;
+		}
+
+		img {
+			width: 100%;
+		}
+
+		img:hover {
+			width: 550px;
+		}
+
+		h1 {
+			font-family: sans-serif;
+			font-size:50px;
+		}
+
+		h5 {
+			font-family: monospace;
+			font-weight: bold;
+			font-size:15px;
+		}
+
+		p {
+			font-family: monospace;
+			font-size: 15px;
+			font-family: courier,monospace;
+		}
+
+		#secondtitle {
+			letter-spacing: 5px;
+			font-weight: bolder;
+		}
+
+		#secondtitle:hover {
+			font-style: sans-serif;
+		}
+
+		#question {
+			color: cadetblue;
+		}
+
+		.italic_text {
+			font-style: bold;
+		}
+
+		a {
+			font-size: 15px;
+			color: black;
+			font-family: monospace;
+		}
+
+		.container {
+			background-color: aliceblue;
+			max-width: 600px;
+			margin: 0 auto;
+			padding: 50px;
+		}
